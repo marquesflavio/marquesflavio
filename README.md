@@ -8,12 +8,12 @@ As I grow in this field, I’m focused on mastering software architecture, impro
 
 <p>Technical Skills</p>
 <ul>
-<li> Frontend: ReactJS, JavaScript, TypeScript, HTML5, CSS3, TailwindCSS, Material UI, Flutter </li>
-<li> Backend: C#, ASP.NET, Entity Framework, SQL </li>
-<li> Web Development: MVC architecture, REST APIs </li>
-<li> Mobile Development: Flutter, Dart </li>
-<li> Version Control: Git, GitHub </li>
-<li> Others: Agile/Scrum, Testing (Unit Testing, Integration Testing), Continuous Integration </li>
+<li>Frontend: React.JS | JavaScript | TypeScript | Vue.js | HTML5 | CSS3 | TailwindCSS | Material UI | Flutter</li>
+<li>Backend: .NET Core | C# | SQL | REST API | ASP.NET MVC | Docker | Entity Framework | Redis</li>
+<li>Mobile Development: Flutter | Dart</li>
+<li>DevOps: Azure DevOps</li>
+<li>Version Control: Git | GitHub</li>
+<li>Others: Windows | Linux | Agile/Scrum | Testing (Unit Testing, Integration Testing) | Continuous Integration CI/CD</li>
 </ul>
 </p>
 
