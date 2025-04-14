@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Flávio</h1>
 <h3 align="center">A fullstack developer from Brazil!</h3>
-<p>Full Stack Developer since 2023.
+<p>Full Stack Developer since 2022.
 
 I’ve developed expertise in both frontend and backend technologies, contributing to both small and large-scale systems. My skills include React.js, JavaScript, TypeScript, C#, .NET, Flutter, and SQL, with a focus on SOLID principles, Git, and Jest for testing.
 
